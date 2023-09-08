@@ -1,7 +1,7 @@
 - 👋 E ai carinha
 - você é o elson? se n for cai fora
-- 🌱 maconha
-- 💞️ viadagem
+- 🌱 plantinha
+- 💞️ te amo
 - 📫 encomenda algum site ai
 
 <!---
