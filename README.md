@@ -1,8 +1,8 @@
 - 👋 E ai carinha
-- você é o elson? se n for cai fora
-- 🌱 plantinha
-- 💞️ te amo
-- 📫 encomenda algum site ai
+- Tenho o sonho de ser um grande programador algum dia
+- Luto desde meus 13 anos para fazer os melhores codigos que eu conseguir
+- Se puder avalie meus codigos, me ajude a dar um upgrade neles, afinal sei que tenho muito a aprender
+- 📫 Este é meu repositorio, explore e aproveite!
 
 <!---
 VitinhoUlti/VitinhoUlti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
