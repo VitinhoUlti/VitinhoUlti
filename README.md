@@ -1,7 +1,7 @@
 - 👋 E ai carinha
 - Tenho o sonho de ser um grande programador algum dia
 - Luto desde meus 13 anos para fazer os melhores codigos que eu conseguir
-- Se puder avalie meus codigos, me ajude a dar um upgrade neles, afinal sei que tenho muito a aprender
+- Se puder, avalie meus codigos, me ajude a dar um upgrade neles, afinal podemos fazer uma troca de aprendizados
 - 📫 Este é meu repositorio, explore e aproveite!
 
 <!---
