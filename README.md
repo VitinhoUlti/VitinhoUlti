@@ -1,10 +1,5 @@
 - 👋 E ai carinha
-- Tenho o sonho de ser um grande programador algum dia
-- Luto desde meus 13 anos para fazer os melhores codigos que eu conseguir
-- Se puder, avalie meus codigos, me ajude a dar um upgrade neles, afinal podemos fazer uma troca de aprendizados
+- 📖 Luto desde meus 13 anos para fazer os melhores codigos e seguir as regras de negócio
+- 📘 Estudo na escola técnica de desenvolvimento de software CEEP Cianorte
+- 📆 Atualmente tenho 3 anos na área de TI, desbravando cada vez mais essa floresta chamada programação
 - 📫 Este é meu repositorio, explore e aproveite!
-
-<!---
-VitinhoUlti/VitinhoUlti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
