@@ -9,7 +9,7 @@
 <li> 📫 Este é meu repositorio, explore e aproveite!</li>
 </ul>
 
-<h2 align="center"> -------- 🃏 ---------</h2>
+<h2 align="center"> ------------------ 🃏 ------------------</h2>
 
 <h2>Minhas Redes sociais! 🎨</h2>
 
