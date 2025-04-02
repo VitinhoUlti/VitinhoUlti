@@ -1,4 +1,4 @@
-<h1>👋 E ai carinha!</h1>
+<h1>👋 E ai carinha! Eu sou o Redondo!</h1>
 <ul>
 <li> 📖 Luto desde meus 13 anos para fazer os melhores codigos e seguir as regras de negócio</li>
 <li> 📘 Estudo na escola técnica de desenvolvimento de software CEEP Cianorte</li>
