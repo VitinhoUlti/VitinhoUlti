@@ -7,5 +7,5 @@
 - 🖥️ Minha especialização é no BackEnd, com conhecimentos em FrontEnd, crio APIs RestFull com JWT, cache e senhas criptografadas
 - 📫 Este é meu repositorio, explore e aproveite!
 </br>
-<br>
+<br></br>
 <a href="https://br.linkedin.com/in/vitor-miguel-santos-redondo-6b9b41284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
