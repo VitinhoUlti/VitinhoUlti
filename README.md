@@ -1,5 +1,4 @@
 <h1>👋 E ai carinha!</h1>
-<br>
 - 📖 Luto desde meus 13 anos para fazer os melhores codigos e seguir as regras de negócio
 - 📘 Estudo na escola técnica de desenvolvimento de software CEEP Cianorte
 - 📆 Atualmente tenho 3 anos na área de TI, desbravando cada vez mais essa floresta chamada programação
