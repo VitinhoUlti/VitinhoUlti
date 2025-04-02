@@ -9,7 +9,7 @@
 <li> 📫 Este é meu repositorio, explore e aproveite!</li>
 </ul>
 
-<h1>Minhas Redes sociais!</h1>
+<h2>Minhas Redes sociais!</h2>
 
 <a href="https://br.linkedin.com/in/vitor-miguel-santos-redondo-6b9b41284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=""><img alt="Discord" src="https://img.shields.io/badge/%3Cvitor_miguel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
