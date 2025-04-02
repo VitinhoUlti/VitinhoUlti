@@ -1,4 +1,3 @@
-
 <h1>👋 E ai carinha! Eu sou o Redondo!</h1>
 
 <ul>
@@ -13,11 +12,11 @@
 <h2>Minhas Redes sociais! 🎨</h2>
 
 <a href="https://br.linkedin.com/in/vitor-miguel-santos-redondo-6b9b41284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href=""><img alt="Discord" src="https://img.shields.io/badge/%3Cvitor_miguel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/A9jQ4WJu"><img alt="Discord" src="https://img.shields.io/badge/%3Cvitor_miguel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <h2>Hard Skills!!!! 🎸</h2>
 
-<p>
+<div>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -29,7 +28,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+</div>
 
 <h4 align="center">
   © Desenvolvido em 2023 - 2025 por Vitor Miguel Santos Redondo
