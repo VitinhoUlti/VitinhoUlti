@@ -9,12 +9,12 @@
 <li> 📫 Este é meu repositorio, explore e aproveite!</li>
 </ul>
 
-<h2>Minhas Redes sociais!</h2>
+<h2>Minhas Redes sociais! 🎨</h2>
 
 <a href="https://br.linkedin.com/in/vitor-miguel-santos-redondo-6b9b41284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=""><img alt="Discord" src="https://img.shields.io/badge/%3Cvitor_miguel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-<h2>Hard Skills!!!!</h2>
+<h2>Hard Skills!!!! 🎸</h2>
 
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
