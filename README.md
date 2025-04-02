@@ -9,6 +9,8 @@
 <li> 📫 Este é meu repositorio, explore e aproveite!</li>
 </ul>
 
+<h2 align="center"> -------- 🃏 ---------</h2>
+
 <h2>Minhas Redes sociais! 🎨</h2>
 
 <a href="https://br.linkedin.com/in/vitor-miguel-santos-redondo-6b9b41284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
