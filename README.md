@@ -30,6 +30,16 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
+<h2>Melhores Projetos / Projetos Comerciais ⭐</h2>
+
+<div>
+<ul>
+<li>🐣 Gerenciamento de Hobbies: Alguma vez você acabou se esquecendo do aniversario de sua namorada ou de algum amigo seu? Ou talvez não sabia o que poderia entregar para ele em alguma data especial? Com esse intuito o gerenciador de hobbies será de grande utilidade para você! Nosso objetivo é de ter uma interface de facil gerenciamento, deixando o mais simples possivel para o usuario, desse jeito qualquer um pode entrar para modificar ou criar! Link: <a href="https://github.com/VitinhoUlti/Web-App-Gerenciador-de-Hobbies">https://github.com/VitinhoUlti/Web-App-Gerenciador-de-Hobbies</a></li>
+
+<li>🎲 RpgBoster: Um aplicativo para mestres deixarem sua partida mais rapida e divertida, facilitando contas e batalhas, até o cadastramento de players, para poder personalizar mais ainda, apenas encomende mudanças adicionais e terá suas partidas mais rapidas. Para a versão base, descompacte RpgBoosterEXE.zip e abra o executavel. Desenvolvido na linguagem C# feito com WinForms, no começo era para apenas ajudar nas partidas de RPG que eu mestrava, porém vi que poderia ajudar outras pessoas, então deixei ele aberto para o publico. Link: <a href="https://github.com/VitinhoUlti/RpgBooster-V1.0">https://github.com/VitinhoUlti/RpgBooster-V1.0</a></li>
+</ul>
+</div>
+
 <h4 align="center">
   © Desenvolvido em 2023 - 2025 por Vitor Miguel Santos Redondo
 </h4>
