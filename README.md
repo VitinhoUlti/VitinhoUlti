@@ -12,7 +12,7 @@
 <h2>Minhas Redes sociais! 🎨</h2>
 
 <a href="https://br.linkedin.com/in/vitor-miguel-santos-redondo-6b9b41284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discord.gg/A9jQ4WJu"><img alt="Discord" src="https://img.shields.io/badge/%3Cvitor_miguel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<img alt="Gmail" src="https://img.shields.io/badge/<Gmail: thesantosredondo@gmail.com>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
 
 <h2>Hard Skills!!!! 🎸</h2>
 
