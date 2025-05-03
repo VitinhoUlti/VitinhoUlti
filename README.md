@@ -1,4 +1,4 @@
-<h1>👋 E ai carinha! Eu sou o Redondito!</h1>
+<h1 align="center">👋 E ai carinha! Eu sou o Redondito!</h1>
 
 <ul>
   <li> 📖 Luto desde meus 13 anos para fazer os melhores codigos e seguir as regras de negócio</li>
@@ -9,16 +9,16 @@
   <li> 📫 Este é meu repositorio, explore e aproveite!</li>
 </ul>
 
-<h2>Minhas Redes sociais! 🎨</h2>
+<h2 align="center">Minhas Redes sociais! 🎨</h2>
 
-<div>
+<div align="center">
   <a href="https://br.linkedin.com/in/vitor-miguel-santos-redondo-6b9b41284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img alt="Gmail" src="https://img.shields.io/badge/<Gmail: thesantosredondo@gmail.com>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
 </div>
 
-<h2>Hard Skills!!!! 🎸</h2>
+<h2 align="center">Hard Skills!!!! 🎸</h2>
 
-<div>
+<div align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -34,7 +34,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-<h2>Melhores Projetos / Projetos Comerciais ⭐</h2>
+<h2 align="center">Melhores Projetos / Projetos Comerciais ⭐</h2>
 
 <div>
   <ul>
