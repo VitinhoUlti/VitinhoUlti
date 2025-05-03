@@ -1,4 +1,4 @@
-<h1 align="center">👋 E ai carinha! Eu sou o Redondito!</h1>
+<h1 align="center">E ai carinha! Eu sou o Redondito! 🤠</h1>
 
 <ul>
   <li> 📖 Luto desde meus 13 anos para fazer os melhores codigos e seguir as regras de negócio</li>
